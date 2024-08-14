@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/akash6131/create-a-project-using-Reactjs.git/static/css/main.2c5c2d9a.css",
-    "main.js": "/akash6131/create-a-project-using-Reactjs.git/static/js/main.345306f5.js",
-    "index.html": "/akash6131/create-a-project-using-Reactjs.git/index.html",
-    "main.2c5c2d9a.css.map": "/akash6131/create-a-project-using-Reactjs.git/static/css/main.2c5c2d9a.css.map",
-    "main.345306f5.js.map": "/akash6131/create-a-project-using-Reactjs.git/static/js/main.345306f5.js.map"
+    "main.css": "/create-a-project-using-Reactjs/static/css/main.2c5c2d9a.css",
+    "main.js": "/create-a-project-using-Reactjs/static/js/main.345306f5.js",
+    "index.html": "/create-a-project-using-Reactjs/index.html",
+    "main.2c5c2d9a.css.map": "/create-a-project-using-Reactjs/static/css/main.2c5c2d9a.css.map",
+    "main.345306f5.js.map": "/create-a-project-using-Reactjs/static/js/main.345306f5.js.map"
   },
   "entrypoints": [
     "static/css/main.2c5c2d9a.css",
