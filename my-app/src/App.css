@@ -1,0 +1,60 @@
+
+table,th,td{
+  border:2px solid black;
+  border-collapse: collapse;
+}
+.head{
+  margin:0px;
+  background-color: rgba(7, 78, 7, 0.879);
+  color: white;
+  display:flex;
+}
+a{
+  margin:30px;
+  padding-left: 70px;
+  flex:1;
+  font-size: larger;
+  color:white;
+  text-decoration: none;
+}
+table , th ,td{
+  padding: 30px;
+  margin:10px 350px 0px 350px;
+}
+.foot{
+  position: fixed;
+  width:99%;
+  bottom:0px;
+  color: white;
+
+  background-color: rgb(13, 69, 18);
+  display:flex;
+}
+.foot a{
+  margin:30px;
+  padding-left: 70px;
+  flex:1;
+  font-size: larger;
+}
+#name{
+ display: flex;
+ padding-bottom: 20px;
+}
+#name label, input{
+  flex:1; 
+}
+form{
+  width:270px;
+}
+#user{
+  margin:50px 550px 0px 550px;
+  padding:20px;
+  width:300px;
+  text-align: center;
+  color: white;
+
+  background-color: rgba(0, 71, 5, 0.66);
+}
+body{
+  background-color: rgba(12, 201, 75, 0.682);
+}

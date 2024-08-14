@@ -1,0 +1,22 @@
+.col-1{
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Times New Roman', Times, serif;
+}
+#name1{
+  color:red;
+}
+#name{
+  color:rgb(255, 255, 255);
+}
+#nav{
+  background-color: rgb(76, 0, 0);
+}
+#nav1{
+   display: flex;
+   background-color:rgb(126, 0, 0);
+   color: rgba(255, 255, 255, 0.612);
+}
+#nav1 div{
+  font-size:20px;
+}
